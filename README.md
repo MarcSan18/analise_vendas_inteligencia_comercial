@@ -1,47 +1,70 @@
-**📊 Análise de Vendas e Inteligência Comercial**
+# 📊 Análise de Vendas e Inteligência Comercial
 
-Projeto desenvolvido para análise de dados de vendas com foco na geração de insights estratégicos e previsão de receita utilizando Python.
+Projeto desenvolvido para análise de dados de vendas com foco na geração de insights estratégicos e previsão de receita utilizando técnicas de análise de dados e Machine Learning.
 
+---
 
-**🎯 Objetivos**
+## 🎯 Objetivo
 
-•	Analisar desempenho de vendas
+Transformar dados de vendas em informações relevantes para apoiar a tomada de decisão, identificando padrões de comportamento, oportunidades de crescimento e tendências futuras.
 
-•	Identificar padrões e oportunidades
+---
 
-•	Gerar insights para tomada de decisão
+## 🛠️ Tecnologias Utilizadas
 
-•	Realizar previsão de receita
+- Python  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+- Jupyter Notebook  
 
-
-**🛠️ Tecnologias**
-
-•	Python (Pandas, Matplotlib, Scikit-learn)
-•	Jupyter Notebook
-
-
-**📈 Principais Insights**
+---
 
 
-•	Canal online apresenta maior volume de vendas
+## 📈 Análises Realizadas
 
+- Cálculo de faturamento total  
+- Análise de vendas por categoria  
+- Análise de desempenho por canal  
+- Evolução temporal da receita  
+- Identificação de padrões de consumo  
 
-•	Categoria eletrônicos lidera o faturamento
+---
 
+## 🤖 Machine Learning
 
-•	Identificação de padrões de consumo ao longo do tempo
+Foi aplicado um modelo de **Regressão Linear** para prever a receita futura com base nos dados históricos, permitindo uma visão antecipada do comportamento de vendas.
 
+---
 
+## 💡 Principais Insights
 
-**🤖 Machine Learning**
+- O canal **online** apresenta maior volume de vendas  
+- A categoria **eletrônicos** lidera o faturamento  
+- Existe concentração de receita em produtos de maior valor  
+- Identificação de padrões de crescimento ao longo do tempo  
 
-Modelo de regressão linear aplicado para previsão de receita futura.
+---
 
-**💡 Recomendações**
+## 📌 Recomendações
 
-•	Aumentar investimento no canal digital
+- Aumentar investimento no canal digital  
+- Priorizar produtos com maior ticket médio  
+- Desenvolver estratégias para categorias com menor desempenho  
+- Utilizar previsões para planejamento estratégico  
 
-•	Priorizar produtos com maior margem
+---
 
-•	Utilizar previsões para planejamento estratégico
+## 🚀 Impacto do Projeto
+
+Este projeto demonstra como a análise de dados pode ser utilizada para transformar informações brutas em decisões estratégicas, contribuindo para aumento de receita e otimização de processos comerciais.
+
+---
+
+## 👨‍💻 Autor
+
+**Marcelo Conceição Santos**  
+📧 marcsan18@hotmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/marcelocsantos-fullstack  
+💻 GitHub: https://github.com/MarcSan18
 
